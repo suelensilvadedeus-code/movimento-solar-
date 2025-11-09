@@ -1,8 +1,12 @@
 
 # ☀️ Movimento Solar - Irradiância Solar Interativa
 
-Este aplicativo Streamlit simula a variação da irradiância solar conforme o movimento do Sol,
-com base em medições reais obtidas por sensores e calibradas por região.
+Este aplicativo simula a variação da irradiância solar conforme o movimento do Sol,
+com base em medições reais obtidas por sensores e calibradas por região. Para usar as suas medições 
+insira os arquivos conforme o indicado abaixo: 
+
+Configure o arquivo para o nome "medicoes_unificadas_corrigido.csv"
+As medições precisam ter o nome da região, e valores medidos separados por virgulas.
 
 ## 🚀 Como executar localmente
 
